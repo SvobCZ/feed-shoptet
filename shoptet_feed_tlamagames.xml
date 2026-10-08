@@ -6572,9 +6572,9 @@ Videonávod:</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/orig/68408_mockup-vzor-1.jpg?667b3448</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <STANDARD_PRICE>891.90</STANDARD_PRICE>
     <PURCHASE_PRICE>839.30</PURCHASE_PRICE>
     <PRICELISTS>
@@ -25266,7 +25266,9 @@ Hra obsahuje:6 oboustranných desek čtvrtí6 figurek dominant34 staveb hráčů
 Pokud máte účet na BGG, můžete hru podpořit palcem ve Spiel Essen Preview zde.
 Představení hry:
 
-Hraní hry:</DESCRIPTION>
+Hraní hry:
+ 
+ Videonávod:</DESCRIPTION>
     <PRICE>465.30</PRICE>
     <MANUFACTURER>TLAMA games</MANUFACTURER>
     <EAN>8594233000484</EAN>
