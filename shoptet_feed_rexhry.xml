@@ -4678,9 +4678,9 @@
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/obaly-na-karty-sapphire-green-standard-card-game-63-5-x-88-mm-100-ks.jpg</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <VISIBILITY>hidden</VISIBILITY>
     <PRICELISTS>
       <PRICELIST>
@@ -5322,9 +5322,9 @@
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/obaly-na-karty-sapphire-purple-standard-american-56-x-87-mm-100-ks.jpg</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <VISIBILITY>hidden</VISIBILITY>
     <PRICELISTS>
       <PRICELIST>
