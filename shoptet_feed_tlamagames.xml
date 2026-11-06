@@ -180,9 +180,9 @@ Představení hry:</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/orig/6192-6_cranio-creations-barrage.png?5f9ecfb1</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <STANDARD_PRICE>1412.10</STANDARD_PRICE>
     <PURCHASE_PRICE>1329.30</PURCHASE_PRICE>
     <PRICELISTS>
@@ -13817,7 +13817,7 @@ Recenze:</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/orig/96274_mockup-vzor--4.jpg?6841a77a</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Na dotaz</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <STANDARD_PRICE>495.00</STANDARD_PRICE>
@@ -28319,6 +28319,192 @@ Hraní hry a dojmy:</DESCRIPTION>
     <EXTERNAL_CODE>TLGA820</EXTERNAL_CODE>
     <IMAGES>
       <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/orig/123161-2_mockup-vzor-8.jpg?6ad78245</IMAGE>
+      </IMAGES>
+    <AVAILABILITY_OUT_OF_STOCK>Na dotaz</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <STANDARD_PRICE>244.80</STANDARD_PRICE>
+    <PURCHASE_PRICE>230.30</PURCHASE_PRICE>
+    <PRICELISTS>
+      <PRICELIST>
+        <TITLE>Ceník - pokladna</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE>230.30</PURCHASE_PRICE>
+        <PRICE>244.80</PRICE>
+        <STANDARD_PRICE>244.80</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VO ceník (40%)</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE>230.30</PURCHASE_PRICE>
+        <PRICE>244.80</PRICE>
+        <STANDARD_PRICE>244.80</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE>230.30</PURCHASE_PRICE>
+        <PRICE>244.80</PRICE>
+        <STANDARD_PRICE>244.80</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník SK</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE>230.30</PURCHASE_PRICE>
+        <PRICE>244.80</PRICE>
+        <STANDARD_PRICE>244.80</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>DMOC</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE>230.30</PURCHASE_PRICE>
+        <PRICE>244.80</PRICE>
+        <STANDARD_PRICE>244.80</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>TOP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE>230.30</PURCHASE_PRICE>
+        <PRICE>214.05</PRICE>
+        <STANDARD_PRICE>214.05</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Ceník pro deskoherní kluby, knihovny atd.</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE>230.30</PURCHASE_PRICE>
+        <PRICE>214.05</PRICE>
+        <STANDARD_PRICE>214.05</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VIP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE>230.30</PURCHASE_PRICE>
+        <PRICE>205.79</PRICE>
+        <STANDARD_PRICE>205.79</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      </PRICELISTS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Amsterdam  (Canal Houses CZ)</NAME>
+    <DESCRIPTION>Užijte si krásný výhled při stavbě typických holandských domů podél amsterdamského kanálu.
+Amsterdam vás zavede do prostředí slavných nizozemských grachten, kde budete vytvářet vlastní ulici plnou úzkých měšťanských domů. Každá budova začíná obchodem v přízemí, postupně roste o další patra s okny a nakonec získá svou charakteristickou střechu. Na konci partie rozhodne o vítězi nejen vzhled ulice, ale především to, jak dobře dokážete využít dostupné karty a splnit jejich podmínky.
+Během hry si hráči dobírají nové karty, jednu z nich vyloží do své ulice a zbylé předají hráči po levici. Nabídka se tak neustále mění a každé rozhodnutí ovlivňuje nejen vaše plány, ale i možnosti soupeřů. Pokud některá karta nezapadá do vaší strategie, můžete ji odhodit do kanálu a uvolnit si prostor pro výhodnější příležitosti.
+Za body stojí především promyšlená výstavba jednotlivých domů. Některé budovy chtějí dosáhnout určité výšky, jiné mají být vyšší nebo nižší než sousedé. Důležitou roli hrají také symboly na kartách oken, jako jsou kočky, ptáci, vlajky nebo květináče. Každá nová karta může pomoci splnit několik podmínek najednou, a proto je potřeba pečlivě plánovat rozvoj celé ulice.
+Vedle jednotlivých domů sledujete také celkový vzhled svého nábřeží. Propojováním karet stejných barev můžete získat cenné bonusové body, takže se vyplatí přemýšlet nejen o každé budově zvlášť, ale i o tom, jak do sebe jednotlivé části ulice zapadají. Hra obsahuje také speciální variantu pro dva hráče s upraveným systémem výběru karet.
+Dokážete zkombinovat správné karty, vybudovat působivou řadu domů a vytvořit nejkrásnější ulici na břehu amsterdamských kanálů?
+Hra je určena pro 2 až 5 hráčů od 8 let.Herní materiál je jazykově nezávislý. Pravidla jsou v češtině.  
+
+
+
+ 
+
+Počty a velikosti karet:110 ks 59x89 mm 
+Nabídka obalů na karty je zde. 
+
+
+
+
+ 
+Herní materiál
+30 karet obchodů52 karet oken27 karet střech1 karta barevného bonusu1 pravidla v češtině
+Pravidla ke stažení zde.
+Představení hry:
+ 
+Hraní hry a dojmy:</DESCRIPTION>
+    <PRICE>244.80</PRICE>
+    <MANUFACTURER>TLAMA games</MANUFACTURER>
+    <EAN>8594233000118</EAN>
+    <EXTERNAL_CODE>TLGA720</EXTERNAL_CODE>
+    <IMAGES>
+      <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/orig/123247-4_mockup-6.jpg?6ae3687a</IMAGE>
       </IMAGES>
     <AVAILABILITY_OUT_OF_STOCK>Na dotaz</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
