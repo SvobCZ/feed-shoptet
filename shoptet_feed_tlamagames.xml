@@ -16,7 +16,7 @@ Baleno jednotlivě v sáčku a následně ve společném sáčku.</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/big/72-1_sada-univerzalnich-kovovych-minci--50-ks.jpg?ff=1&amp;x=1024&amp;y=768&amp;q=85&amp;ts=61d44082&amp;sg=161563f2</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Na dotaz</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <STANDARD_PRICE>408.60</STANDARD_PRICE>
@@ -6572,7 +6572,7 @@ Videonávod:</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/orig/68408_mockup-vzor-1.jpg?667b3448</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Na dotaz</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <STANDARD_PRICE>891.90</STANDARD_PRICE>
@@ -13817,7 +13817,7 @@ Recenze:</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/orig/96274_mockup-vzor--4.jpg?6841a77a</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Na dotaz</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <STANDARD_PRICE>495.00</STANDARD_PRICE>
@@ -20903,7 +20903,7 @@ Videonávod:</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/big/112844-8_sagrada-mockup.jpg?ff=1&amp;x=1024&amp;y=768&amp;q=85&amp;ts=69bd06a1&amp;sg=161563f2</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Na dotaz</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
     <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <STANDARD_PRICE>705.60</STANDARD_PRICE>
@@ -24540,9 +24540,9 @@ Hraní hry:</DESCRIPTION>
     <IMAGES>
       <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/orig/117967-10_mockup-vzor-5.jpg?6a3ce5a7</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Na dotaz</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <STANDARD_PRICE>370.80</STANDARD_PRICE>
     <PURCHASE_PRICE>349.30</PURCHASE_PRICE>
     <PRICELISTS>
@@ -26144,9 +26144,9 @@ Počty a velikosti karet:112 ks 63x88 mm Nabídka obalů na karty je…</DESCRIP
     <IMAGES>
       <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/orig/120520_toulky-png.jpg?6a9a8ccf</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Na dotaz</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <STANDARD_PRICE>495.00</STANDARD_PRICE>
     <PURCHASE_PRICE>465.50</PURCHASE_PRICE>
     <PRICELISTS>
