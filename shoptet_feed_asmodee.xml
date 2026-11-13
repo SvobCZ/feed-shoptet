@@ -24129,6 +24129,448 @@
       </PRICELISTS>
     </SHOPITEM>
   <SHOPITEM>
+    <EXTERNAL_CODE>ASLIBDIXBO0101CSSK</EXTERNAL_CODE>
+    <EAN>3558387008388</EAN>
+    <PURCHASE_PRICE>174.29</PURCHASE_PRICE>
+    <PRICE>185.12</PRICE>
+    <NAME>Dixit Signature: Padouši</NAME>
+    <DESCRIPTION>&lt;p&gt;Rozšíření s 21 kartami s lesklým efektem.&lt;/p&gt;
+&lt;p&gt;Rozšiřte Dixit svět o Dixit Signature: Padouši – o 21 lesklých karet věnovaných protivníkům, jejich plánům a nečekaným příběhům! Padouši ze světů Disney a Pixar dostávají v Dixitu vlastní prostor. Jejich léčky, touha po moci i škodolibý humor vám nabídnou nové možnosti pro tvorbu nápověd a příběhů.&lt;/p&gt;
+&lt;p&gt;Pro hraní s těmito kartami potřebujete jednu ze základních verzí hry Dixit.&lt;/p&gt;
+&lt;h3&gt;Obsah balení:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;21 karet&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;česká a slovenská pravidla&lt;/p&gt;</DESCRIPTION>
+    <SHORT_DESCRIPTION>Disney a Pixar Padouši přicházejí do Dixitu!</SHORT_DESCRIPTION>
+    <META_DESCRIPTION>Disney a Pixar Padouši přicházejí do Dixitu!</META_DESCRIPTION>
+    <MANUFACTURER>Libellud</MANUFACTURER>
+    <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
+    <IMAGES>
+      <IMAGE>https://images.asmodee.cz/original/1/ASLIBDIXBO0101CSSK.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/2/ASLIBDIXBO0101CSSK.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/3/ASLIBDIXBO0101CSSK.jpg</IMAGE>
+      </IMAGES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>1</ACTIVE>
+        </FLAG>
+      </FLAGS>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <STANDARD_PRICE>224.00</STANDARD_PRICE>
+    <LOGISTIC>
+      <WEIGHT>0.08</WEIGHT>
+      <HEIGHT>17</HEIGHT>
+      <WIDTH>10</WIDTH>
+      <DEPTH>0.5</DEPTH>
+      </LOGISTIC>
+    <CATEGORIES>
+      <CATEGORY id="960">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Asmodee</CATEGORY>
+      <CATEGORY id="1377">Kompletní nabídka her &gt; Hry podle věku &gt; Pro děti od 8 let</CATEGORY>
+      <CATEGORY id="819">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro tři hráče</CATEGORY>
+      <CATEGORY id="822">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro čtyři hráče</CATEGORY>
+      <CATEGORY id="825">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro pět hráčů</CATEGORY>
+      <CATEGORY id="828">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro šest a více hráčů</CATEGORY>
+      <DEFAULT_CATEGORY id="975">Kompletní nabídka her</DEFAULT_CATEGORY>
+      </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>3</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>8</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>8+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>30 minut.</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    <VISIBILITY>hidden</VISIBILITY>
+    <PRICELISTS>
+      <PRICELIST>
+        <TITLE>Ceník - pokladna</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>205.79</PRICE>
+        <STANDARD_PRICE>205.79</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VO ceník (40%)</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>205.79</PRICE>
+        <STANDARD_PRICE>205.79</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>205.79</PRICE>
+        <STANDARD_PRICE>205.79</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník SK</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>205.79</PRICE>
+        <STANDARD_PRICE>205.79</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>DMOC</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>205.79</PRICE>
+        <STANDARD_PRICE>205.79</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>TOP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>164.46</PRICE>
+        <STANDARD_PRICE>164.46</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Ceník pro deskoherní kluby, knihovny atd.</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>164.46</PRICE>
+        <STANDARD_PRICE>164.46</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VIP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>156.2</PRICE>
+        <STANDARD_PRICE>156.2</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      </PRICELISTS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>ASLIBDIXBO0201CSSK</EXTERNAL_CODE>
+    <EAN>3558387008487</EAN>
+    <PURCHASE_PRICE>174.29</PURCHASE_PRICE>
+    <PRICE>185.12</PRICE>
+    <NAME>Dixit Signature: Záhady a dobrodružství</NAME>
+    <DESCRIPTION>&lt;p&gt;Rozšíření s 21 kartami s lesklým efektem.&lt;/p&gt;
+&lt;p&gt;Nádherné ilustrace z rozšíření Dixit Signature: Záhady a dobrodružství vám dovolí vyprávět o dobrodružstvích Disney a Pixar pokaždé jinak. Známé příběhy dostávají na kartách nový význam: záhadné detaily, lesklé odlesky a nečekaná spojení.&lt;/p&gt;
+&lt;p&gt;Pro hraní s těmito kartami potřebujete jednu ze základních verzí hry Dixit.&lt;/p&gt;
+&lt;h3&gt;Obsah balení:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;21 karet&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;česká a slovenská pravidla&lt;/p&gt;</DESCRIPTION>
+    <SHORT_DESCRIPTION>Záhady a dobrodružství ze světa Disney a Pixar přicházejí do Dixitu!</SHORT_DESCRIPTION>
+    <META_DESCRIPTION>Záhady a dobrodružství ze světa Disney a Pixar přicházejí do Dixitu!</META_DESCRIPTION>
+    <MANUFACTURER>Libellud</MANUFACTURER>
+    <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
+    <IMAGES>
+      <IMAGE>https://images.asmodee.cz/original/1/ASLIBDIXBO0201CSSK.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/2/ASLIBDIXBO0201CSSK.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/3/ASLIBDIXBO0201CSSK.jpg</IMAGE>
+      </IMAGES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>1</ACTIVE>
+        </FLAG>
+      </FLAGS>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <STANDARD_PRICE>224.00</STANDARD_PRICE>
+    <LOGISTIC>
+      <WEIGHT>0.08</WEIGHT>
+      <HEIGHT>17</HEIGHT>
+      <WIDTH>10</WIDTH>
+      <DEPTH>0.5</DEPTH>
+      </LOGISTIC>
+    <CATEGORIES>
+      <CATEGORY id="960">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Asmodee</CATEGORY>
+      <CATEGORY id="1377">Kompletní nabídka her &gt; Hry podle věku &gt; Pro děti od 8 let</CATEGORY>
+      <CATEGORY id="819">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro tři hráče</CATEGORY>
+      <CATEGORY id="822">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro čtyři hráče</CATEGORY>
+      <CATEGORY id="825">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro pět hráčů</CATEGORY>
+      <CATEGORY id="828">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro šest a více hráčů</CATEGORY>
+      <DEFAULT_CATEGORY id="975">Kompletní nabídka her</DEFAULT_CATEGORY>
+      </CATEGORIES>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>3</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>8</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>8+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>30 minut.</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    <VISIBILITY>hidden</VISIBILITY>
+    <PRICELISTS>
+      <PRICELIST>
+        <TITLE>Ceník - pokladna</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>205.79</PRICE>
+        <STANDARD_PRICE>205.79</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VO ceník (40%)</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>205.79</PRICE>
+        <STANDARD_PRICE>205.79</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>205.79</PRICE>
+        <STANDARD_PRICE>205.79</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník SK</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>205.79</PRICE>
+        <STANDARD_PRICE>205.79</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>DMOC</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>205.79</PRICE>
+        <STANDARD_PRICE>205.79</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>TOP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>164.46</PRICE>
+        <STANDARD_PRICE>164.46</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Ceník pro deskoherní kluby, knihovny atd.</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>164.46</PRICE>
+        <STANDARD_PRICE>164.46</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VIP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>156.2</PRICE>
+        <STANDARD_PRICE>156.2</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      </PRICELISTS>
+    </SHOPITEM>
+  <SHOPITEM>
     <EXTERNAL_CODE>ASLIBMYST01CZ</EXTERNAL_CODE>
     <EAN>3558380034674</EAN>
     <PURCHASE_PRICE>769.30</PURCHASE_PRICE>
@@ -28203,6 +28645,231 @@
         <PURCHASE_PRICE> </PURCHASE_PRICE>
         <PRICE>470.25</PRICE>
         <STANDARD_PRICE>470.25</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      </PRICELISTS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>ASMEKIEK14CSSK</EXTERNAL_CODE>
+    <EAN>0810171414229</EAN>
+    <PURCHASE_PRICE>461.28</PURCHASE_PRICE>
+    <PRICE>490.08</PRICE>
+    <NAME>Výbušná koťátka: Kočičí kletba</NAME>
+    <DESCRIPTION>&lt;p&gt;Výbušná koťátka jsou extrémně strategickou verzí ruské rulety (jen s koťátky). Hráči si dobírají karty, dokud si někdo nelízne Výbušné koťátko, exploduje, umře a je vyřazen ze hry. Pokud tento hráč nemá kartu Zneškodni, která mu umožní zneškodnit koťátko. Úkolem všech ostatních karet v balíčku je pomoci hráčům držet se Výbušným koťátkům z cesty (nebo je nastrčit do cesty ostatním).&lt;/p&gt;
+&lt;p&gt;Vtipné ilustrace s ještě vtipnějšími texty vás pobaví a plně vtáhnou do hry, kterou budete chtít hrát stále dokola. Každá karta je originál.&lt;/p&gt;
+&lt;p&gt;Pravidla hry jsou velice jednoduchá, vysvětlená za pár vteřin.&lt;/p&gt;
+&lt;p&gt;Tato edice přináší nový zvrat: Hra se sama VYLEPŠUJE po každém zahrání. Obsahuje totiž tajné obálky. Obálky jsou plné nových magických karet, které se od otevření stanou součástí vaší hry. Některé z nich obsahují kouzla a kletby, což jsou úplně nové typy karet.&lt;/p&gt;
+&lt;h3&gt;Obsah balení:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;67 karet&lt;/li&gt;&lt;li&gt;7 obálek&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;česká pravidla&lt;/p&gt;</DESCRIPTION>
+    <SHORT_DESCRIPTION>Karetní hra, ve které každému zkazíš den pomocí otravné magie.</SHORT_DESCRIPTION>
+    <META_DESCRIPTION>Karetní hra, ve které každému zkazíš den pomocí otravné magie.</META_DESCRIPTION>
+    <MANUFACTURER>Exploding Kittens</MANUFACTURER>
+    <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
+    <IMAGES>
+      <IMAGE>https://images.asmodee.cz/original/1/ASMEKIEK14CSSK.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/2/ASMEKIEK14CSSK.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/3/ASMEKIEK14CSSK.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/4/ASMEKIEK14CSSK.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/5/ASMEKIEK14CSSK.jpg</IMAGE>
+      </IMAGES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>1</ACTIVE>
+        </FLAG>
+      </FLAGS>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <STANDARD_PRICE>593.00</STANDARD_PRICE>
+    <LOGISTIC>
+      <WEIGHT>0.29</WEIGHT>
+      <HEIGHT>19.8</HEIGHT>
+      <WIDTH>11.2</WIDTH>
+      <DEPTH>5</DEPTH>
+      </LOGISTIC>
+    <CATEGORIES>
+      <CATEGORY id="960">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Asmodee</CATEGORY>
+      <CATEGORY id="1374">Kompletní nabídka her &gt; Hry podle věku &gt; Pro děti od 7 let</CATEGORY>
+      <CATEGORY id="816">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro dva hráče</CATEGORY>
+      <CATEGORY id="819">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro tři hráče</CATEGORY>
+      <CATEGORY id="822">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro čtyři hráče</CATEGORY>
+      <CATEGORY id="825">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro pět hráčů</CATEGORY>
+      <DEFAULT_CATEGORY id="975">Kompletní nabídka her</DEFAULT_CATEGORY>
+      </CATEGORIES>
+    <RELATED_VIDEOS>
+      <RELATED_VIDEO>
+        <TEXT>Video</TEXT>
+        <YOUTUBE_VIDEO_CODE>NIemx1g4pDY</YOUTUBE_VIDEO_CODE>
+        </RELATED_VIDEO>
+      </RELATED_VIDEOS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>2</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>5</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>7+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>15 minut.</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    <VISIBILITY>hidden</VISIBILITY>
+    <PRICELISTS>
+      <PRICELIST>
+        <TITLE>Ceník - pokladna</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>544.63</PRICE>
+        <STANDARD_PRICE>544.63</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VO ceník (40%)</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>544.63</PRICE>
+        <STANDARD_PRICE>544.63</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>544.63</PRICE>
+        <STANDARD_PRICE>544.63</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník SK</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>544.63</PRICE>
+        <STANDARD_PRICE>544.63</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>DMOC</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>544.63</PRICE>
+        <STANDARD_PRICE>544.63</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>TOP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>420.66</PRICE>
+        <STANDARD_PRICE>420.66</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Ceník pro deskoherní kluby, knihovny atd.</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>420.66</PRICE>
+        <STANDARD_PRICE>420.66</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VIP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>412.4</PRICE>
+        <STANDARD_PRICE>412.4</STANDARD_PRICE>
         <PRICE_RATIO>1</PRICE_RATIO>
         <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
         <ACTION_PRICE> </ACTION_PRICE>
@@ -35577,7 +36244,7 @@
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
-        <ACTIVE>1</ACTIVE>
+        <ACTIVE>0</ACTIVE>
         </FLAG>
       </FLAGS>
     <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
@@ -45068,6 +45735,236 @@
         <PURCHASE_PRICE> </PURCHASE_PRICE>
         <PRICE>371.07</PRICE>
         <STANDARD_PRICE>371.07</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      </PRICELISTS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>BOWT01CZ</EXTERNAL_CODE>
+    <EAN>8595680304064</EAN>
+    <PURCHASE_PRICE>454.27</PURCHASE_PRICE>
+    <PRICE>482.64</PRICE>
+    <NAME>Vombatí věž</NAME>
+    <DESCRIPTION>&lt;p&gt;Vombatí věž je napadena ohavnými ničemy! Neztrácejte ani minutu – popadněte, co můžete, a společnými silami odrazte útočníky!&lt;/p&gt;
+&lt;p&gt;Vombatí věž čelí útoku a vaším úkolem je společnými silami odrazit všechny nepřátele dříve, než prolomí její obranu. Uprostřed herní desky stojí vysoká věž a z jejích čtyř stran k ní vedou samostatné cesty. Na nich se postupně objevují vojáci a nebezpečnější šéfíci, kteří se snaží dostat až k vašim hradbám. Ve svém tahu si můžete věž natočit čelem k vybrané cestě a poté do ní vhodíte kostku. Ta vyletí spodním otvorem a vaším cílem je fyzicky srazit jednu nebo více figurek. Podaří-li se vám útočníka skutečně povalit, odstraníte ho z herní desky. Pouhé posunutí nestačí – stojící figurka se vrací na své políčko.&lt;/p&gt;
+&lt;p&gt;Hod kostkou však není jen střelou proti nepřátelům. Po každém útoku musíte zároveň vyhodnotit symbol, který na kostce padl, a právě tady začíná skutečný tlak na obránce. Karty útočníků mohou přivést nové vojáky nebo šéfíka, jehož válečný pokřik navíc posune ostatní protivníky na stejné cestě blíž k věži. Jiný výsledek spustí výpad, při kterém se všichni nepřátelé na společně vybrané cestě posunou o jedno políčko vpřed. Jakmile už některého útočníka nelze umístit nebo posunout, poškodí jeden ze tří štítů a zmizí z desky. Poškození třetího štítu znamená okamžitou porážku, takže musíte průběžně hlídat všechny čtyři směry.&lt;/p&gt;
+&lt;p&gt;Ne každý symbol na kostce vám ale škodí. Bonusový efekt vám umožní dobrat kartu udělátka, která na jediný hod změní způsob, jakým kostku vyšlete do boje. Katapult využívá cvrnknutí prstem, palicí kostku postrčíte pomocí samotné karty a můstek ji nechá spadnout z vrcholu věže. Každý způsob vyžaduje trochu jiný odhad síly i směru, takže hra přirozeně střídá plánování s okamžiky, kdy záleží na šikovnosti ruky. Zvítězíte teprve tehdy, když z cest odstraníte úplně všechny útočníky. Protože hrajete jako tým, můžete se před každým hodem poradit, kde hrozí největší nebezpečí a jaký zásah vám právě nejvíce pomůže.&lt;/p&gt;
+&lt;p&gt;Proč byste si měli hru koupit - Kostku nepoužíváte jen k určení náhodného výsledku – stává se skutečnou střelou, kterou přes věž srážíte útočníky z herní desky. - Všichni bojujete za společný cíl, takže můžete plánovat další zásah, upozorňovat na nejohroženější cestu a společně slavit povedené hody. - Pravidla pochopí i mladší děti, přesto musíte stále sledovat čtyři cesty, stav štítů a rozhodovat, kterému nebezpečí dát přednost. - Každý hod spojuje zručnost s nejistotou kostky – můžete přesně zasáhnout nepřítele, ale následný efekt zároveň přivést další posily. - Katapult, palice a můstek mění způsob vystřelení kostky, takže se během partie nestřílí stále stejně a každý bonus vyžaduje jiný pohyb. - Trojrozměrná věž není pouhou dekorací, ale ústřední součástí mechanismu, kterou natáčíte k vybrané cestě a používáte při každém útoku. - Krátká herní doba dovoluje odehrát několik partií za sebou a po porážce můžete okamžitě zkusit jinou taktiku při rozdělování pozornosti mezi cesty. - Hra funguje i pro jednoho hráče, takže obranu věže můžete trénovat samostatně a později se o rozhodování podělit s celou rodinou. - Hrdinský režim přidává další útočníky už při přípravě, a nabízí tak jednoduchý způsob, jak zvýšit obtížnost bez přidávání složitých pravidel. - Vítězství závisí na úplném vyčištění všech cest, takže napětí nekončí prvním povedeným zásahem a poslední stojící nepřítel může rozhodnout celou bitvu.&lt;/p&gt;
+&lt;h3&gt;Obsah balení:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;1 věž&lt;/li&gt;&lt;li&gt;1 herní deska se 4 cestami&lt;/li&gt;&lt;li&gt;4 velké figurky&lt;/li&gt;&lt;li&gt;12 malých figurek&lt;/li&gt;&lt;li&gt;20 karet&lt;/li&gt;&lt;li&gt;1 kostka&lt;/li&gt;&lt;li&gt;3 štíty&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;česká a slovenská pravidla&lt;/p&gt;</DESCRIPTION>
+    <SHORT_DESCRIPTION>Zábavná obrana věže pro celou rodinu.</SHORT_DESCRIPTION>
+    <META_DESCRIPTION>Zábavná obrana věže pro celou rodinu.</META_DESCRIPTION>
+    <MANUFACTURER>Blue Orange Games</MANUFACTURER>
+    <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
+    <IMAGES>
+      <IMAGE>https://images.asmodee.cz/original/1/BOWT01CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/2/BOWT01CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/3/BOWT01CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/4/BOWT01CZ.jpg</IMAGE>
+      </IMAGES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>1</ACTIVE>
+        </FLAG>
+      </FLAGS>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <STANDARD_PRICE>584.00</STANDARD_PRICE>
+    <LOGISTIC>
+      <WEIGHT>0.6</WEIGHT>
+      <HEIGHT>26</HEIGHT>
+      <WIDTH>11</WIDTH>
+      <DEPTH>11</DEPTH>
+      </LOGISTIC>
+    <CATEGORIES>
+      <CATEGORY id="960">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Asmodee</CATEGORY>
+      <CATEGORY id="1371">Kompletní nabídka her &gt; Hry podle věku &gt; Pro děti od 6 let</CATEGORY>
+      <CATEGORY id="813">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro jednoho hráče</CATEGORY>
+      <CATEGORY id="816">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro dva hráče</CATEGORY>
+      <CATEGORY id="819">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro tři hráče</CATEGORY>
+      <CATEGORY id="822">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro čtyři hráče</CATEGORY>
+      <DEFAULT_CATEGORY id="975">Kompletní nabídka her</DEFAULT_CATEGORY>
+      </CATEGORIES>
+    <RELATED_VIDEOS>
+      <RELATED_VIDEO>
+        <TEXT>Video</TEXT>
+        <YOUTUBE_VIDEO_CODE>36GWFKOW61E</YOUTUBE_VIDEO_CODE>
+        </RELATED_VIDEO>
+      </RELATED_VIDEOS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>1</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>4</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>6+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>15 minut.</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    <VISIBILITY>hidden</VISIBILITY>
+    <PRICELISTS>
+      <PRICELIST>
+        <TITLE>Ceník - pokladna</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>536.36</PRICE>
+        <STANDARD_PRICE>536.36</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VO ceník (40%)</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>536.36</PRICE>
+        <STANDARD_PRICE>536.36</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>536.36</PRICE>
+        <STANDARD_PRICE>536.36</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník SK</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>536.36</PRICE>
+        <STANDARD_PRICE>536.36</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>DMOC</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>536.36</PRICE>
+        <STANDARD_PRICE>536.36</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>TOP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>412.4</PRICE>
+        <STANDARD_PRICE>412.4</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Ceník pro deskoherní kluby, knihovny atd.</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>412.4</PRICE>
+        <STANDARD_PRICE>412.4</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VIP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>404.13</PRICE>
+        <STANDARD_PRICE>404.13</STANDARD_PRICE>
         <PRICE_RATIO>1</PRICE_RATIO>
         <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
         <ACTION_PRICE> </ACTION_PRICE>
@@ -81823,6 +82720,239 @@
       </PRICELISTS>
     </SHOPITEM>
   <SHOPITEM>
+    <EXTERNAL_CODE>KBGCRW01</EXTERNAL_CODE>
+    <EAN>8595680304071</EAN>
+    <PURCHASE_PRICE>629.26</PURCHASE_PRICE>
+    <PRICE>668.60</PRICE>
+    <NAME>Moje kavárnička: Zima</NAME>
+    <DESCRIPTION>&lt;p&gt;Přichází zima a nová nabídka hřejivých nápojů vás zve do vaší oblíbené kavárničky!&lt;/p&gt;
+&lt;p&gt;Mráz kreslí na okenní tabule nádherné obrazce a promrzlí hosté hledají útočiště ve vaší útulné kavárničce, kde na ně čeká bohatá nabídka lahodných horkých nápojů. Dokážete zvládnout zimní shon, rychle plnit objednávky a proměnit mrazivý den v hřejivý zážitek pro každého zákazníka?&lt;/p&gt;
+&lt;p&gt;Moje kavárnička: Zima je určena všem, kteří mají rádi svižné rodinné deskové hry s jednoduchými pravidly, ale dostatkem prostoru pro plánování. Díky přehledným pravidlům si ji rychle osvojí i méně zkušení hráči, zatímco variabilní příprava nabídne dostatek výzev i těm, kteří už původní Moji kavárničku dobře znají. Skvěle funguje jako rodinná hra i jako odpočinková partie s přáteli, ve které rozhoduje efektivní plánování, správné hospodaření s přísadami a schopnost zvládnout stále rostoucí počet objednávek.&lt;/p&gt;
+&lt;p&gt;Pohybujte se po herní desce a získávejte potřebné přísady. Ze správných přísad plňte objednávky a sbírejte vítězné body. Pomocí různých vylepšení rozvíjejte své baristické dovednosti. Díky modulární herní desce bude každá partie zcela odlišná.&lt;/p&gt;
+&lt;p&gt;Proč byste si měli hru koupit - Jednoduchá pravidla umožní začít hrát během několika minut, přesto každá partie nabídne dostatek prostoru pro promyšlené plánování a efektivní využívání všech možností. - Modulární herní plán mění rozmístění přísad a pomáhá tomu, aby jednotlivé partie nepůsobily stále stejně ani po mnoha odehraných hrách. - Zimní nabídka nápojů vytváří odlišnou atmosféru a přináší nové recepty inspirované obdobím, kdy hosté hledají něco opravdu hřejivého. - Postupné odemykání vylepšení mění vaše možnosti během hry a odměňuje hráče, kteří dokážou dobře plánovat několik tahů dopředu. - Neustále se měnící fronta objednávek vytváří příjemný časový tlak, díky němuž je každá partie svižná až do samotného konce. - Díky krátké herní době se hra hodí jak pro rodinný večer, tak jako odlehčená strategická hra mezi náročnějšími tituly. - Variabilní příprava nabízí další úroveň obtížnosti a umožní zkušeným hráčům přizpůsobit hru vlastním preferencím. - Přehledné zpracování a kvalitní 3D přísady pomáhají vytvořit příjemnou atmosféru kavárny a zpříjemňují manipulaci během celé partie. - Hra nabízí vyvážený poměr strategie a přístupnosti, takže si ji užijí jak děti, tak dospělí u společného stolu. - Pokud jste si oblíbili původní Moji kavárničku, zimní varianta rozšiřuje celý herní zážitek o nové možnosti, aniž by ztratila to, co na sérii funguje nejlépe.&lt;/p&gt;
+&lt;h3&gt;Obsah balení:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;1 modulární deska přísad&lt;/li&gt;&lt;li&gt;4 desky hráčů&lt;/li&gt;&lt;li&gt;24 dílků vylepšení&lt;/li&gt;&lt;li&gt;16 dílků přísad&lt;/li&gt;&lt;li&gt;8 figurek&lt;/li&gt;&lt;li&gt;2 zásobníky na přísady&lt;/li&gt;&lt;li&gt;15 žetonů keksíků&lt;/li&gt;&lt;li&gt;12 šálků&lt;/li&gt;&lt;li&gt;102 přísad&lt;/li&gt;&lt;li&gt;1 žeton začínajícího hráče&lt;/li&gt;&lt;li&gt;90 karet objednávek&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;česká a slovenská pravidla&lt;/p&gt;</DESCRIPTION>
+    <SHORT_DESCRIPTION>Zimní edice bestselleru Moje kavárnička.</SHORT_DESCRIPTION>
+    <META_DESCRIPTION>Zimní edice bestselleru Moje kavárnička.</META_DESCRIPTION>
+    <MANUFACTURER>Korea Boardgames</MANUFACTURER>
+    <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
+    <IMAGES>
+      <IMAGE>https://images.asmodee.cz/original/1/KBGCRW01.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/2/KBGCRW01.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/3/KBGCRW01.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/4/KBGCRW01.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/5/KBGCRW01.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/6/KBGCRW01.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/7/KBGCRW01.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/8/KBGCRW01.jpg</IMAGE>
+      </IMAGES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>1</ACTIVE>
+        </FLAG>
+      </FLAGS>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <STANDARD_PRICE>809.00</STANDARD_PRICE>
+    <LOGISTIC>
+      <WEIGHT>0.86</WEIGHT>
+      <HEIGHT>27.5</HEIGHT>
+      <WIDTH>21.5</WIDTH>
+      <DEPTH>6</DEPTH>
+      </LOGISTIC>
+    <CATEGORIES>
+      <CATEGORY id="960">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Asmodee</CATEGORY>
+      <CATEGORY id="1377">Kompletní nabídka her &gt; Hry podle věku &gt; Pro děti od 8 let</CATEGORY>
+      <CATEGORY id="816">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro dva hráče</CATEGORY>
+      <CATEGORY id="819">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro tři hráče</CATEGORY>
+      <CATEGORY id="822">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro čtyři hráče</CATEGORY>
+      <DEFAULT_CATEGORY id="975">Kompletní nabídka her</DEFAULT_CATEGORY>
+      </CATEGORIES>
+    <RELATED_VIDEOS>
+      <RELATED_VIDEO>
+        <TEXT>Video</TEXT>
+        <YOUTUBE_VIDEO_CODE>-e_I9uXlE_Q</YOUTUBE_VIDEO_CODE>
+        </RELATED_VIDEO>
+      </RELATED_VIDEOS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>2</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>4</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>8+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>30 minut.</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    <VISIBILITY>hidden</VISIBILITY>
+    <PRICELISTS>
+      <PRICELIST>
+        <TITLE>Ceník - pokladna</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>742.98</PRICE>
+        <STANDARD_PRICE>742.98</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VO ceník (40%)</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>742.98</PRICE>
+        <STANDARD_PRICE>742.98</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>742.98</PRICE>
+        <STANDARD_PRICE>742.98</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník SK</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>742.98</PRICE>
+        <STANDARD_PRICE>742.98</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>DMOC</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>742.98</PRICE>
+        <STANDARD_PRICE>742.98</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>TOP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>577.69</PRICE>
+        <STANDARD_PRICE>577.69</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Ceník pro deskoherní kluby, knihovny atd.</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>577.69</PRICE>
+        <STANDARD_PRICE>577.69</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VIP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>561.16</PRICE>
+        <STANDARD_PRICE>561.16</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      </PRICELISTS>
+    </SHOPITEM>
+  <SHOPITEM>
     <EXTERNAL_CODE>LBEBUR0101CSSK</EXTERNAL_CODE>
     <EAN>3558380137511</EAN>
     <PURCHASE_PRICE>209.30</PURCHASE_PRICE>
@@ -90867,6 +91997,234 @@
         <PURCHASE_PRICE> </PURCHASE_PRICE>
         <PRICE>536.36</PRICE>
         <STANDARD_PRICE>536.36</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      </PRICELISTS>
+    </SHOPITEM>
+  <SHOPITEM>
+    <EXTERNAL_CODE>PTMATBOM01CZ</EXTERNAL_CODE>
+    <EAN>8595680304026</EAN>
+    <PURCHASE_PRICE>279.28</PURCHASE_PRICE>
+    <PRICE>296.69</PRICE>
+    <NAME>BOMB5</NAME>
+    <DESCRIPTION>&lt;p&gt;Výbušná taktická hra, ve které se všechno točí kolem čísla 5!&lt;/p&gt;
+&lt;p&gt;Během hry budete na herní plochu umisťovat dílky s čísly kolem přibývajících dílků bomb. Součet 5 na dílcích, které umístíte, bomby deaktivuje nebo aktivuje. Zároveň vám umožní umístit do hry trofej ve vaší barvě. Pokud na konci svého kola vidíte 5 dílků s trofejí ve vaší barvě, GRATULUJEME! Vyhráli jste hru.&lt;/p&gt;
+&lt;p&gt;Základ celé hry stojí na jediném čísle – pětce. Hráči během partie přikládají číselné dílky k ostatním dílkům na společné herní ploše a snaží se vytvářet řady nebo sloupce se součtem přesně 5. Jakmile se to podaří, aktivuje se speciální efekt, který umožní umístit vlastní trofej nebo otočit některý z již vyložených dílků. Jednoduché pravidlo tak vytváří neustále se měnící herní situaci, kde je potřeba sledovat nejen vlastní plán, ale i možnosti soupeřů.&lt;/p&gt;
+&lt;p&gt;Velkou roli ve hře hrají bomby. Ty se na herní plochu dostávají postupně a jejich efekty mohou převrátit průběh partie během jediného tahu. Některé bomby umožní otočit konkrétní trofej, jiné zasáhnou celé řady nebo sloupce. Hráči tak často připravují situace, které na první pohled vypadají výhodně, jen aby je soupeř během chvíle zcela rozložil. Právě práce s bombami dodává hře neustálé napětí a nutí vás přemýšlet několik tahů dopředu.&lt;/p&gt;
+&lt;p&gt;Umisťujte dílky, sčítejte jejich hodnoty a spouštějte speciální efekty! Aktivujte bomby a narušujte plány svých soupeřů!&lt;/p&gt;
+&lt;p&gt;Proč byste si měli hru koupit - Jednoduchý princip sčítání do pěti pochopí během chvíle děti i příležitostní hráči, přesto hra nabízí dostatek prostoru pro taktické plánování. - Krátká herní doba umožňuje odehrát několik partií za sebou, což podporuje okamžité odvety i experimentování s různými strategiemi. - Bomby přinášejí neustálé napětí, protože jediný dobře načasovaný efekt může během chvíle otočit vývoj celé partie. - Společná herní plocha nutí všechny hráče neustále sledovat situaci na stole a reagovat na plány ostatních soupeřů. - Díky svižnému tempu nevznikají dlouhé prostoje a hráči zůstávají zapojeni prakticky po celou dobu hry. - Barevné trofeje a přehledné číselné dílky dělají hru dobře čitelnou i pro mladší hráče nebo rodinné hraní. - Variabilní situace na herní ploše zajišťují, že jednotlivé partie nepůsobí stereotypně ani po větším množství odehraných her. - Hra funguje dobře ve dvou hráčích i ve větší skupině, kde se více projevují nečekané obraty a konfliktní situace. - Díky malému balení si můžete BOMB5 snadno vzít na dovolenou, do školy, kavárny nebo na rodinný víkend. - Kombinace jednoduchých pravidel, interakce a krátké herní doby dělá z BOMB5 ideální titul pro téměř jakoukoliv herní skupinu.&lt;/p&gt;
+&lt;h3&gt;Obsah balení:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;48 dílků s číslem&lt;/li&gt;&lt;li&gt;35 dílků s trofejí&lt;/li&gt;&lt;li&gt;18 dílků bomby&lt;/li&gt;&lt;li&gt;1 česká pravidla&lt;/li&gt;&lt;li&gt;1 přehled hry&lt;/li&gt;&lt;/ul&gt;</DESCRIPTION>
+    <SHORT_DESCRIPTION>Výbušná společenská hra.</SHORT_DESCRIPTION>
+    <META_DESCRIPTION>Výbušná společenská hra.</META_DESCRIPTION>
+    <MANUFACTURER>Publishing Technology &amp; Solutions</MANUFACTURER>
+    <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
+    <IMAGES>
+      <IMAGE>https://images.asmodee.cz/original/1/PTMATBOM01CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/2/PTMATBOM01CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/3/PTMATBOM01CZ.jpg</IMAGE>
+      </IMAGES>
+    <FLAGS>
+      <FLAG>
+        <CODE>new</CODE>
+        <ACTIVE>1</ACTIVE>
+        </FLAG>
+      </FLAGS>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <STANDARD_PRICE>359.00</STANDARD_PRICE>
+    <LOGISTIC>
+      <WEIGHT>0.15</WEIGHT>
+      <HEIGHT>10</HEIGHT>
+      <WIDTH>10</WIDTH>
+      <DEPTH>5.5</DEPTH>
+      </LOGISTIC>
+    <CATEGORIES>
+      <CATEGORY id="960">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Asmodee</CATEGORY>
+      <CATEGORY id="1374">Kompletní nabídka her &gt; Hry podle věku &gt; Pro děti od 7 let</CATEGORY>
+      <CATEGORY id="816">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro dva hráče</CATEGORY>
+      <CATEGORY id="819">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro tři hráče</CATEGORY>
+      <CATEGORY id="822">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro čtyři hráče</CATEGORY>
+      <CATEGORY id="825">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro pět hráčů</CATEGORY>
+      <DEFAULT_CATEGORY id="975">Kompletní nabídka her</DEFAULT_CATEGORY>
+      </CATEGORIES>
+    <RELATED_VIDEOS>
+      <RELATED_VIDEO>
+        <TEXT>Video</TEXT>
+        <YOUTUBE_VIDEO_CODE>KXfe0tI5gDs</YOUTUBE_VIDEO_CODE>
+        </RELATED_VIDEO>
+      </RELATED_VIDEOS>
+    <INFORMATION_PARAMETERS>
+      <INFORMATION_PARAMETER>
+        <NAME>Rok vydání (v češtině):</NAME>
+        <VALUE>2026</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>2</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>5</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>7+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>15 minut</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        </INFORMATION_PARAMETER>
+      </INFORMATION_PARAMETERS>
+    <VISIBILITY>hidden</VISIBILITY>
+    <PRICELISTS>
+      <PRICELIST>
+        <TITLE>Ceník - pokladna</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>329.75</PRICE>
+        <STANDARD_PRICE>329.75</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VO ceník (40%)</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>329.75</PRICE>
+        <STANDARD_PRICE>329.75</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>329.75</PRICE>
+        <STANDARD_PRICE>329.75</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Velkoobchodní ceník SK</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>329.75</PRICE>
+        <STANDARD_PRICE>329.75</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>DMOC</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>329.75</PRICE>
+        <STANDARD_PRICE>329.75</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>TOP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>255.37</PRICE>
+        <STANDARD_PRICE>255.37</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>Ceník pro deskoherní kluby, knihovny atd.</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>255.37</PRICE>
+        <STANDARD_PRICE>255.37</STANDARD_PRICE>
+        <PRICE_RATIO>1</PRICE_RATIO>
+        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+        <ACTION_PRICE> </ACTION_PRICE>
+        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
+        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
+        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
+        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
+        <FREE_SHIPPING>0</FREE_SHIPPING>
+        <FREE_BILLING>0</FREE_BILLING>
+        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
+        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
+        </PRICELIST>
+      <PRICELIST>
+        <TITLE>VIP ceník</TITLE>
+        <VAT>21</VAT>
+        <PURCHASE_PRICE> </PURCHASE_PRICE>
+        <PRICE>247.11</PRICE>
+        <STANDARD_PRICE>247.11</STANDARD_PRICE>
         <PRICE_RATIO>1</PRICE_RATIO>
         <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
         <ACTION_PRICE> </ACTION_PRICE>
