@@ -41581,9 +41581,9 @@
     <PURCHASE_PRICE>195.71</PURCHASE_PRICE>
     <PRICE>251.00</PRICE>
     <STANDARD_PRICE>251.00</STANDARD_PRICE>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <VISIBILITY>hidden</VISIBILITY>
     <CATEGORIES>
       <CATEGORY id="957">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Albi</CATEGORY>
@@ -55090,9 +55090,9 @@
     <PURCHASE_PRICE>287.28</PURCHASE_PRICE>
     <PRICE>296.69</PRICE>
     <STANDARD_PRICE>359.00</STANDARD_PRICE>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <VISIBILITY>hidden</VISIBILITY>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -55884,9 +55884,9 @@
     <PURCHASE_PRICE>179.29</PURCHASE_PRICE>
     <PRICE>185.12</PRICE>
     <STANDARD_PRICE>224.00</STANDARD_PRICE>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <VISIBILITY>hidden</VISIBILITY>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -81140,9 +81140,9 @@
     <PURCHASE_PRICE>42.48</PURCHASE_PRICE>
     <PRICE>43.80</PRICE>
     <STANDARD_PRICE>53.00</STANDARD_PRICE>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <VISIBILITY>hidden</VISIBILITY>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -102644,9 +102644,9 @@
     <PURCHASE_PRICE>215.28</PURCHASE_PRICE>
     <PRICE>222.31</PRICE>
     <STANDARD_PRICE>269.00</STANDARD_PRICE>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <VISIBILITY>hidden</VISIBILITY>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
@@ -126340,6 +126340,9 @@
     <DESCRIPTION>Obrázkové hádanky na cesty z koncepce Kvído jsou originální ilustrované hádanky od českých autorů, které rozvíjí znalosti dětí v různých oblastech. Vzhůru za zvířátky rozvíjí znalosti o zvířátkách v různých prostředích. Hra obsahuje: 70 obrázkových hádanek, mazací fix.</DESCRIPTION>
     <EAN>9788076884137</EAN>
     <IMAGE>https://b2b.albi.cz/data/images/products/14692/12371.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14692/12371_1.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14692/12371_2.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14692/12371_3.jpg</IMAGE>
     <VAT>0</VAT>
     <PURCHASE_PRICE>143.28</PURCHASE_PRICE>
     <PRICE>179.00</PRICE>
@@ -126530,6 +126533,9 @@
     <DESCRIPTION>Obrázkové hádanky na cesty z koncepce Kvído jsou originální ilustrované hádanky od českých autorů, které rozvíjí znalosti dětí v různých oblastech. České pohádky rozvíjí znalosti o tradičních českých pohádkách. Hra obsahuje: 70 obrázkových hádanek, mazací fix.</DESCRIPTION>
     <EAN>9788076884137</EAN>
     <IMAGE>https://b2b.albi.cz/data/images/products/14693/27968.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14693/27968_1.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14693/27968_2.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14693/27968_3.jpg</IMAGE>
     <VAT>0</VAT>
     <PURCHASE_PRICE>143.28</PURCHASE_PRICE>
     <PRICE>179.00</PRICE>
@@ -126720,6 +126726,9 @@
     <DESCRIPTION>Obrázkové hádanky na cesty od Kvída jsou originální ilustrované hádanky od českých autorů, které rozvíjí znalosti dětí v různých oblastech. Těším se do 1. třídy rozvíjí grafomotoriku, základní početní úkoly a vnímání času a prostoru. Hra obsahuje: 70 obrázkových hádanek, mazací fix.</DESCRIPTION>
     <EAN>9788076884137</EAN>
     <IMAGE>https://b2b.albi.cz/data/images/products/14694/27969.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14694/27969_1.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14694/27969_2.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14694/27969_3.jpg</IMAGE>
     <VAT>0</VAT>
     <PURCHASE_PRICE>143.28</PURCHASE_PRICE>
     <PRICE>179.00</PRICE>
@@ -126910,6 +126919,9 @@
     <DESCRIPTION>Obrázkové hádanky na cesty z koncepce Kvído jsou originální ilustrované hádanky od českých autorů, které rozvíjí znalosti dětí v různých oblastech. Na prázdniny rozvíjí logické uvažování, grafomotoriku a zrakové vnímání. Skvěle zabaví na prázdninách. Hádanky jsou vhodné pro děti od 5 do 8 let. Hra obsahuje: 70 obrázkových hádanek, mazací fix.</DESCRIPTION>
     <EAN>9788076884137</EAN>
     <IMAGE>https://b2b.albi.cz/data/images/products/14695/27974.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14695/27974_1.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14695/27974_2.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14695/27974_3.jpg</IMAGE>
     <VAT>0</VAT>
     <PURCHASE_PRICE>143.28</PURCHASE_PRICE>
     <PRICE>179.00</PRICE>
@@ -127100,6 +127112,9 @@
     <DESCRIPTION>Obrázkové hádanky na cesty z koncepce Kvído jsou originální ilustrované hádanky od českých autorů, které rozvíjí znalosti dětí v různých oblastech. Na výlety rozvíjí logické uvažování, grafomotoriku a zrakové vnímání. Skvěle zabaví na výletech. Hádanky jsou vhodné pro děti od 5 do 8 let. Hra obsahuje: 70 obrázkových hádanek, mazací fix.</DESCRIPTION>
     <EAN>9788076884137</EAN>
     <IMAGE>https://b2b.albi.cz/data/images/products/14696/27975.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14696/27975_1.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14696/27975_2.jpg</IMAGE>
+    <IMAGE>https://b2b.albi.cz/data/images/products/14696/27975_3.jpg</IMAGE>
     <VAT>0</VAT>
     <PURCHASE_PRICE>143.28</PURCHASE_PRICE>
     <PRICE>179.00</PRICE>
@@ -128435,201 +128450,6 @@
         <PURCHASE_PRICE> </PURCHASE_PRICE>
         <PRICE>255.37</PRICE>
         <STANDARD_PRICE>255.37</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-      </PRICELIST>
-    </PRICELISTS>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Zachraň tučňáka</NAME>
-    <EXTERNAL_CODE>50320</EXTERNAL_CODE>
-    <DESCRIPTION>Poutavá rodinná hra plná zábavy a napětí! Klepejte ledové kostky, ale pozor – nesmíte nechat tučňáka spadnout! Hra obsahuje: herní rám, 38 ledových kostek, točící kolečko, figurku tučňáka, 2 kladívka.</DESCRIPTION>
-    <EAN>8590228110930</EAN>
-    <IMAGE>https://b2b.albi.cz/data/images/products/14729/50320.jpg</IMAGE>
-    <IMAGE>https://b2b.albi.cz/data/images/products/14729/50320_1.jpg</IMAGE>
-    <IMAGE>https://b2b.albi.cz/data/images/products/14729/50320_2.jpg</IMAGE>
-    <IMAGE>https://b2b.albi.cz/data/images/products/14729/50320_3.jpg</IMAGE>
-    <VAT>21</VAT>
-    <PURCHASE_PRICE>179.29</PURCHASE_PRICE>
-    <PRICE>185.12</PRICE>
-    <STANDARD_PRICE>224.00</STANDARD_PRICE>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
-    <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
-    <VISIBILITY>hidden</VISIBILITY>
-    <INFORMATION_PARAMETERS>
-      <INFORMATION_PARAMETER>
-        <NAME>Minimální počet hráčů</NAME>
-        <VALUE>2</VALUE>
-      </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Maximální počet hráčů</NAME>
-        <VALUE>2</VALUE>
-      </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Herní doba</NAME>
-        <VALUE>10</VALUE>
-      </INFORMATION_PARAMETER>
-      <INFORMATION_PARAMETER>
-        <NAME>Doporučený věk</NAME>
-        <VALUE>5+</VALUE>
-      </INFORMATION_PARAMETER>
-    </INFORMATION_PARAMETERS>
-    <CATEGORIES>
-      <CATEGORY id="957">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Albi</CATEGORY>
-      <CATEGORY id="849">Kompletní nabídka her &gt; Rodinné hry</CATEGORY>
-      <CATEGORY id="1368">Kompletní nabídka her &gt; Hry podle věku &gt; Pro děti od 5 let</CATEGORY>
-      <CATEGORY id="816">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro dva hráče</CATEGORY>
-      <DEFAULT_CATEGORY id="975">Kompletní nabídka her</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <LOGISTIC>
-      <WEIGHT>0.293</WEIGHT>
-      <HEIGHT>20.2</HEIGHT>
-      <WIDTH>23</WIDTH>
-      <DEPTH>6</DEPTH>
-    </LOGISTIC>
-    <PRICELISTS>
-      <PRICELIST>
-        <TITLE>Ceník - pokladna</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>205.79</PRICE>
-        <STANDARD_PRICE>205.79</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-      </PRICELIST>
-      <PRICELIST>
-        <TITLE>VO ceník (40%)</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>205.79</PRICE>
-        <STANDARD_PRICE>205.79</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-      </PRICELIST>
-      <PRICELIST>
-        <TITLE>Velkoobchodní ceník</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>205.79</PRICE>
-        <STANDARD_PRICE>205.79</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-      </PRICELIST>
-      <PRICELIST>
-        <TITLE>Velkoobchodní ceník SK</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>205.79</PRICE>
-        <STANDARD_PRICE>205.79</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-      </PRICELIST>
-      <PRICELIST>
-        <TITLE>DMOC</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>205.79</PRICE>
-        <STANDARD_PRICE>205.79</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-      </PRICELIST>
-      <PRICELIST>
-        <TITLE>TOP ceník</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>164.46</PRICE>
-        <STANDARD_PRICE>164.46</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-      </PRICELIST>
-      <PRICELIST>
-        <TITLE>Ceník pro deskoherní kluby, knihovny atd.</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>164.46</PRICE>
-        <STANDARD_PRICE>164.46</STANDARD_PRICE>
-        <PRICE_RATIO>1</PRICE_RATIO>
-        <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
-        <ACTION_PRICE> </ACTION_PRICE>
-        <APPLY_LOYALTY_DISCOUNT>0</APPLY_LOYALTY_DISCOUNT>
-        <APPLY_VOLUME_DISCOUNT>0</APPLY_VOLUME_DISCOUNT>
-        <APPLY_QUANTITY_DISCOUNT>0</APPLY_QUANTITY_DISCOUNT>
-        <APPLY_DISCOUNT_COUPON>0</APPLY_DISCOUNT_COUPON>
-        <FREE_SHIPPING>0</FREE_SHIPPING>
-        <FREE_BILLING>0</FREE_BILLING>
-        <MINIMAL_AMOUNT> </MINIMAL_AMOUNT>
-        <MAXIMAL_AMOUNT> </MAXIMAL_AMOUNT>
-      </PRICELIST>
-      <PRICELIST>
-        <TITLE>VIP ceník</TITLE>
-        <VAT>21</VAT>
-        <PURCHASE_PRICE> </PURCHASE_PRICE>
-        <PRICE>164.46</PRICE>
-        <STANDARD_PRICE>164.46</STANDARD_PRICE>
         <PRICE_RATIO>1</PRICE_RATIO>
         <MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
         <ACTION_PRICE> </ACTION_PRICE>
@@ -141814,9 +141634,9 @@
     <PURCHASE_PRICE>359.29</PURCHASE_PRICE>
     <PRICE>371.07</PRICE>
     <STANDARD_PRICE>449.00</STANDARD_PRICE>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <VISIBILITY>hidden</VISIBILITY>
     <CATEGORIES>
       <CATEGORY id="957">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Albi</CATEGORY>
@@ -151996,9 +151816,9 @@
     <PURCHASE_PRICE>143.28</PURCHASE_PRICE>
     <PRICE>147.93</PRICE>
     <STANDARD_PRICE>179.00</STANDARD_PRICE>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <VISIBILITY>hidden</VISIBILITY>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
