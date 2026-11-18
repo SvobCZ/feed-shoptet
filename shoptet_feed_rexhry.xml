@@ -7929,9 +7929,9 @@
     <IMAGES>
       <IMAGE>https://admin.planetaher.cz/upload/product-images/1000x1000/hrdinove-bez-zaruky-rozsireni-maximum-security-perfektni-zabezpeceni-2.jpg</IMAGE>
       </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY id="945">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Rexhry</CATEGORY>
       <DEFAULT_CATEGORY id="975">Kompletní nabídka her</DEFAULT_CATEGORY>
