@@ -2220,9 +2220,9 @@
         <ACTIVE>0</ACTIVE>
         </FLAG>
       </FLAGS>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <STANDARD_PRICE>584.00</STANDARD_PRICE>
     <LOGISTIC>
       <WEIGHT>0.56</WEIGHT>
@@ -19277,8 +19277,22 @@
     <PURCHASE_PRICE>307.28</PURCHASE_PRICE>
     <PRICE>326.45</PRICE>
     <NAME>Dobble Sonic</NAME>
+    <DESCRIPTION>&lt;p&gt;Postřehový bestseller se vrací s oblíbenými postavičkami a ikonickými předměty ze světa videohry SONIC: The Hedgehog!&lt;/p&gt;
+&lt;p&gt;Hráči zde hledají dva stejné symboly na kartách při různých verzích hry (v pravidlech je popsáno celkem 5 her). Super jsou kulaté karty i jednoduchá pravidla vysvětlená doslova za pár sekund. Plechová krabička zaručuje bezpečí karet a jednoduše umožňuje mít hru vždy u sebe. Vyzkoušejte i Vy postřehový fenomén Dobble a jistě budete překvapeni, jak i tak jednoduchá hra může být zábavná a zároveň naučná!&lt;/p&gt;
+&lt;p&gt;Dobble Sonic obsahuje jednu zcela novou minihru.&lt;/p&gt;
+&lt;h3&gt;Obsah balení:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;56 karet v plechové krabičce&lt;/li&gt;&lt;li&gt;1 česká, slovenská a rumunská pravidla&lt;/li&gt;&lt;/ul&gt;</DESCRIPTION>
+    <SHORT_DESCRIPTION>Dokonalé spojení rychlé postřehové hry a nejrychlejší videoherní postavičky.</SHORT_DESCRIPTION>
+    <META_DESCRIPTION>Dokonalé spojení rychlé postřehové hry a nejrychlejší videoherní postavičky.</META_DESCRIPTION>
     <MANUFACTURER>Zygomatic</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
+    <IMAGES>
+      <IMAGE>https://images.asmodee.cz/original/1/ASDOBSON07CSSK.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/2/ASDOBSON07CSSK.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/3/ASDOBSON07CSSK.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/4/ASDOBSON07CSSK.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/5/ASDOBSON07CSSK.jpg</IMAGE>
+      </IMAGES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -19301,12 +19315,34 @@
       </LOGISTIC>
     <CATEGORIES>
       <CATEGORY id="960">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Asmodee</CATEGORY>
+      <CATEGORY id="1371">Kompletní nabídka her &gt; Hry podle věku &gt; Pro děti od 6 let</CATEGORY>
+      <CATEGORY id="816">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro dva hráče</CATEGORY>
+      <CATEGORY id="819">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro tři hráče</CATEGORY>
+      <CATEGORY id="822">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro čtyři hráče</CATEGORY>
+      <CATEGORY id="825">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro pět hráčů</CATEGORY>
+      <CATEGORY id="828">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro šest a více hráčů</CATEGORY>
       <DEFAULT_CATEGORY id="975">Kompletní nabídka her</DEFAULT_CATEGORY>
       </CATEGORIES>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2027</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>2</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>8</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>6+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>15 minut.</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     <VISIBILITY>hidden</VISIBILITY>
@@ -20373,8 +20409,22 @@
     <PURCHASE_PRICE>265.29</PURCHASE_PRICE>
     <PRICE>281.82</PRICE>
     <NAME>Dobble Fantasy</NAME>
+    <DESCRIPTION>&lt;p&gt;Rychlost, postřeh, reflexy! Dobble Fantasy, to je 57 různých symbolů, 55 karet, 8 obrázků na kartě a každé dvě karty spolu mají společný jen jeden obrázek!&lt;/p&gt;
+&lt;p&gt;Hledejte na kartách společné symboly mezi magickými lektvary, strašlivými draky, statečnými rytíři a tajemnými čaroději.&lt;/p&gt;
+&lt;p&gt;Hra je kompletně v češtině i slovenštině a nabízí zcela unikátní zábavu. Děti zde hledají dva stejné obrázky na kartách při různých verzích hry (v pravidlech je popsáno celkem 5 her). Super jsou kulaté karty i jednoduchá pravidla vysvětlená doslova za pár sekund. Hra je určená především pro děti, ale i jejich rodiče - zkrátka pro všechny, kteří se chtějí pořádně bavit a nemají čas pročítat dlouhá pravidla. Plechová krabička zaručuje bezpečí karet a jednoduše umožňuje mít hru vždy u sebe. Vyzkoušejte i Vy postřehový fenomén Dobble a jistě budete překvapeni, jak i tak jednoduchá hra může být zábavná!&lt;/p&gt;
+&lt;h3&gt;Obsah balení:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;55 karet v plechové krabičce&lt;/li&gt;&lt;li&gt;1 česká, slovenská a rumunská pravidla&lt;/li&gt;&lt;/ul&gt;</DESCRIPTION>
+    <SHORT_DESCRIPTION>Dobble vstupuje do světa fantazie!</SHORT_DESCRIPTION>
+    <META_DESCRIPTION>Dobble vstupuje do světa fantazie!</META_DESCRIPTION>
     <MANUFACTURER>Zygomatic</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
+    <IMAGES>
+      <IMAGE>https://images.asmodee.cz/original/1/ASDOFAN07ML1.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/2/ASDOFAN07ML1.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/3/ASDOFAN07ML1.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/4/ASDOFAN07ML1.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/5/ASDOFAN07ML1.jpg</IMAGE>
+      </IMAGES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -20397,12 +20447,34 @@
       </LOGISTIC>
     <CATEGORIES>
       <CATEGORY id="960">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Asmodee</CATEGORY>
+      <CATEGORY id="1371">Kompletní nabídka her &gt; Hry podle věku &gt; Pro děti od 6 let</CATEGORY>
+      <CATEGORY id="816">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro dva hráče</CATEGORY>
+      <CATEGORY id="819">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro tři hráče</CATEGORY>
+      <CATEGORY id="822">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro čtyři hráče</CATEGORY>
+      <CATEGORY id="825">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro pět hráčů</CATEGORY>
+      <CATEGORY id="828">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro šest a více hráčů</CATEGORY>
       <DEFAULT_CATEGORY id="975">Kompletní nabídka her</DEFAULT_CATEGORY>
       </CATEGORIES>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2027</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>2</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>8</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>6+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>15 minut.</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     <VISIBILITY>hidden</VISIBILITY>
@@ -32068,12 +32140,27 @@
     </SHOPITEM>
   <SHOPITEM>
     <EXTERNAL_CODE>ASMODLO06CZ</EXTERNAL_CODE>
-    <EAN>841333144654</EAN>
+    <EAN>0841333144654</EAN>
     <PURCHASE_PRICE>419.27</PURCHASE_PRICE>
     <PRICE>445.45</PRICE>
     <NAME>Pán prstenů: Návrat krále - Štychová karetní hra</NAME>
+    <DESCRIPTION>&lt;p&gt;Zažijte dramatické vyvrcholení epického příběhu ve štychové karetní hře Pán Prstenů: Návrat krále™ ! Zatímco Aragorn v čele západních vojsk chrabře vzdoruje Sauronovi, Sam zachránil Froda a společně se plahočí Mordorem, aby splnili svůj úkol a v plamenech Hory osudu zničili Jeden prsten.&lt;/p&gt;
+&lt;p&gt;Vyzkoušejte nové postavy jako Denethor, Dernhelm, Šarkan a Beregond, prozkoumejte nové mechaniky jako odevzdávání karet koruně a přijměte zodpovědnost, když dostanete Krále, nejvyšší kartu všech barev.&lt;/p&gt;
+&lt;p&gt;Návrat krále – Štychová karetní hra je samostatné pokračování štychových her Společenstvo Prstenu a Dvě věže s několika herními módy jako hra 2 hráčů, sólo hra a Cesta jde pořád dál.&lt;/p&gt;
+&lt;h3&gt;Obsah balení:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;155 karet&lt;/li&gt;&lt;li&gt;8 žetonů&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;česká pravidla&lt;/p&gt;</DESCRIPTION>
+    <SHORT_DESCRIPTION>Uzavření příběhu štychové karetní trilogie Pán prstenů.</SHORT_DESCRIPTION>
+    <META_DESCRIPTION>Uzavření příběhu štychové karetní trilogie Pán prstenů.</META_DESCRIPTION>
     <MANUFACTURER>Office Dog</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
+    <IMAGES>
+      <IMAGE>https://images.asmodee.cz/original/1/ASMODLO06CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/2/ASMODLO06CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/3/ASMODLO06CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/4/ASMODLO06CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/5/ASMODLO06CZ.jpg</IMAGE>
+      </IMAGES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -32096,12 +32183,37 @@
       </LOGISTIC>
     <CATEGORIES>
       <CATEGORY id="960">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Asmodee</CATEGORY>
+      <CATEGORY id="1359">Kompletní nabídka her &gt; Hry podle věku &gt; Pro děti od 10 let</CATEGORY>
+      <CATEGORY id="813">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro jednoho hráče</CATEGORY>
+      <CATEGORY id="816">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro dva hráče</CATEGORY>
+      <CATEGORY id="819">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro tři hráče</CATEGORY>
+      <CATEGORY id="822">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro čtyři hráče</CATEGORY>
       <DEFAULT_CATEGORY id="975">Kompletní nabídka her</DEFAULT_CATEGORY>
       </CATEGORIES>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2027</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>1</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>4</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>10+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>20 minut.</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     <VISIBILITY>hidden</VISIBILITY>
@@ -54502,9 +54614,9 @@
         <ACTIVE>0</ACTIVE>
         </FLAG>
       </FLAGS>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <STANDARD_PRICE>629.00</STANDARD_PRICE>
     <LOGISTIC>
       <WEIGHT>0.3</WEIGHT>
@@ -69899,8 +70011,21 @@
     <PURCHASE_PRICE>349.28</PURCHASE_PRICE>
     <PRICE>371.07</PRICE>
     <NAME>Star Wars: The Deckbuilding Game  - Piráti, balíček frakce</NAME>
+    <DESCRIPTION>&lt;p&gt;„Ty se máš o pirátech hodně co učit.“ — kapitán Silvo&lt;/p&gt;
+&lt;p&gt;Rozšíření Piráti obsahuje vše, co potřebujete, abyste ke své hře STAR WARS™: THE DECKBUILDING GAME přidali pirátskou frakci: 10 karet základen, 10 startovních karet, 30 galaktických karet a 1 oboustrannou kartu rovnováhy Síly. Toto rozšíření také obsahuje 19 neutrálních karet: 3 karty základen, 15 galaktických karet a 1 Pykeský repulzorový vlak. Tyto karty se používají v novém herním módu hra 3 hráčů.&lt;/p&gt;
+&lt;p&gt;K HRANÍ POTŘEBUJETE JEDNU Z EDIC ZÁKLADNÍ HRY STAR WARS™: THE DECKBUILDING GAME.&lt;/p&gt;
+&lt;h3&gt;Obsah balení:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;70 karet&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;česká pravidla&lt;/p&gt;</DESCRIPTION>
+    <SHORT_DESCRIPTION>Druhé frakční rozšíření pro Star Wars: The Deckbuilding Game.</SHORT_DESCRIPTION>
+    <META_DESCRIPTION>Druhé frakční rozšíření pro Star Wars: The Deckbuilding Game.</META_DESCRIPTION>
     <MANUFACTURER>Fantasy Flight Games</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
+    <IMAGES>
+      <IMAGE>https://images.asmodee.cz/original/1/FSWG05CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/2/FSWG05CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/3/FSWG05CZ.jpg</IMAGE>
+      </IMAGES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -81864,7 +81989,7 @@
         </FLAG>
       <FLAG>
         <CODE>custom2</CODE>
-        <VALID_UNTIL>2027-01-08</VALID_UNTIL>
+        <VALID_UNTIL>2027-01-15</VALID_UNTIL>
         </FLAG>
       </FLAGS>
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
@@ -89648,8 +89773,27 @@
     <PURCHASE_PRICE>601.27</PURCHASE_PRICE>
     <PRICE>638.84</PRICE>
     <NAME>Fantasy Tiles</NAME>
+    <DESCRIPTION>&lt;p&gt;Sjednoťte nejrůznější rody z království, abyste získali moc, bohatství a slávu!&lt;/p&gt;
+&lt;p&gt;V tomto světě žijí různé rody. Abyste získali body, umístěte je do řady nebo využijte sílu jejich lidu. V každém tahu si dobíráte dílky a umisťujete je tak, abyste dosáhli co nejvyššího počtu bodů a získali různé bonusy.&lt;/p&gt;
+&lt;p&gt;Tvořte řady a sloupce tak, aby obsahovaly buď všechny stejné dílky, nebo dílky různých rodů. Využívejte svých fantastických schopností a sbírejte poklady rozeseté po království. Šikovně kombinujte rozmístění a strategii, abyste získali co nejvíce bodů.&lt;/p&gt;
+&lt;h3&gt;Obsah balení:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;1 herní deska&lt;/li&gt;&lt;li&gt;1 látkový váček&lt;/li&gt;&lt;li&gt;80 dílků rodů&lt;/li&gt;&lt;li&gt;7 karet rodů&lt;/li&gt;&lt;li&gt;4 žetony víl&lt;/li&gt;&lt;li&gt;4 žetony kladiv&lt;/li&gt;&lt;li&gt;20 žetonů pokladů&lt;/li&gt;&lt;li&gt;12 žetonů objevů&lt;/li&gt;&lt;li&gt;4 stojánky&lt;/li&gt;&lt;li&gt;1 bloček s bodovacími tabulkami&lt;/li&gt;&lt;li&gt;1 tužka&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;česká a slovenská pravidla&lt;/p&gt;</DESCRIPTION>
+    <SHORT_DESCRIPTION>Klasická hra s dílky plná nových nápadů.</SHORT_DESCRIPTION>
+    <META_DESCRIPTION>Klasická hra s dílky plná nových nápadů.</META_DESCRIPTION>
     <MANUFACTURER>Next Move</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
+    <IMAGES>
+      <IMAGE>https://images.asmodee.cz/original/1/NMG60210ML3.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/2/NMG60210ML3.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/3/NMG60210ML3.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/4/NMG60210ML3.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/5/NMG60210ML3.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/6/NMG60210ML3.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/7/NMG60210ML3.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/8/NMG60210ML3.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/9/NMG60210ML3.jpg</IMAGE>
+      </IMAGES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -89672,12 +89816,37 @@
       </LOGISTIC>
     <CATEGORIES>
       <CATEGORY id="960">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Asmodee</CATEGORY>
+      <CATEGORY id="1359">Kompletní nabídka her &gt; Hry podle věku &gt; Pro děti od 10 let</CATEGORY>
+      <CATEGORY id="816">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro dva hráče</CATEGORY>
+      <CATEGORY id="819">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro tři hráče</CATEGORY>
+      <CATEGORY id="822">Kompletní nabídka her &gt; Hry podle počtu hráčů &gt; Pro čtyři hráče</CATEGORY>
       <DEFAULT_CATEGORY id="975">Kompletní nabídka her</DEFAULT_CATEGORY>
       </CATEGORIES>
     <INFORMATION_PARAMETERS>
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2027</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Minimální počet hráčů</NAME>
+        <VALUE>2</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Maximální počet hráčů</NAME>
+        <VALUE>4</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Doporučený věk</NAME>
+        <VALUE>10+</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Herní doba</NAME>
+        <VALUE>30 minut.</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
+        <VALUE>Slovenština</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     <VISIBILITY>hidden</VISIBILITY>
@@ -96281,9 +96450,14 @@
     <EAN>5407007460649</EAN>
     <PURCHASE_PRICE>552.27</PURCHASE_PRICE>
     <PRICE>586.78</PRICE>
-    <NAME>Koncept stories</NAME>
+    <NAME>Koncept: Příběhy</NAME>
     <MANUFACTURER>Repos Production</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
+    <IMAGES>
+      <IMAGE>https://images.asmodee.cz/original/1/RPCONSTO0101CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/2/RPCONSTO0101CZ.jpg</IMAGE>
+      <IMAGE>https://images.asmodee.cz/original/3/RPCONSTO0101CZ.jpg</IMAGE>
+      </IMAGES>
     <FLAGS>
       <FLAG>
         <CODE>new</CODE>
@@ -96312,6 +96486,10 @@
       <INFORMATION_PARAMETER>
         <NAME>Rok vydání (v češtině):</NAME>
         <VALUE>2027</VALUE>
+        </INFORMATION_PARAMETER>
+      <INFORMATION_PARAMETER>
+        <NAME>Jazyk pravidel</NAME>
+        <VALUE>Čeština</VALUE>
         </INFORMATION_PARAMETER>
       </INFORMATION_PARAMETERS>
     <VISIBILITY>hidden</VISIBILITY>
@@ -100900,7 +101078,7 @@
     <EAN>8595680304217</EAN>
     <PURCHASE_PRICE>839.25</PURCHASE_PRICE>
     <PRICE>891.74</PRICE>
-    <NAME>West Story: A Town Building Game</NAME>
+    <NAME>West Story: A Town Building Game - české vydání</NAME>
     <MANUFACTURER>Smart Flamingo</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
     <FLAGS>
@@ -101086,7 +101264,7 @@
     <EAN>8595680304224</EAN>
     <PURCHASE_PRICE>300.29</PURCHASE_PRICE>
     <PRICE>319.01</PRICE>
-    <NAME>West Story: A Town Building Game - Expansion</NAME>
+    <NAME>West Story: A Town Building Game - Pioneers - české vydání</NAME>
     <MANUFACTURER>Smart Flamingo</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
     <FLAGS>
@@ -101272,7 +101450,7 @@
     <EAN>8595680304156</EAN>
     <PURCHASE_PRICE>384.28</PURCHASE_PRICE>
     <PRICE>408.26</PRICE>
-    <NAME>West Story: A Town Building Game - Metal Coins</NAME>
+    <NAME>West Story: A Town Building Game - kovové mince</NAME>
     <MANUFACTURER>Smart Flamingo</MANUFACTURER>
     <SUPPLIER>Asmodee Czech Republic</SUPPLIER>
     <FLAGS>
@@ -104506,7 +104684,7 @@
         </FLAG>
       <FLAG>
         <CODE>custom2</CODE>
-        <VALID_UNTIL>2027-01-08</VALID_UNTIL>
+        <VALID_UNTIL>2027-01-15</VALID_UNTIL>
         </FLAG>
       </FLAGS>
     <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
