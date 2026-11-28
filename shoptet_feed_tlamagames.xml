@@ -8844,9 +8844,9 @@
     <IMAGES>
       <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/orig/79427-3_nocni-mury.jpg?669a1103</IMAGE>
     </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY id="1692">neroztřízené</CATEGORY>
       <CATEGORY id="954">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Tlama Games</CATEGORY>
@@ -14868,9 +14868,9 @@
     <IMAGES>
       <IMAGE>https://cdn.myshoptet.com/usr/www.tlamagames.com/user/shop/orig/99295-3_mockup-10.jpg?688b6591</IMAGE>
     </IMAGES>
-    <AVAILABILITY_OUT_OF_STOCK>Skladem u dodavatele</AVAILABILITY_OUT_OF_STOCK>
+    <AVAILABILITY_OUT_OF_STOCK>Vyprodáno</AVAILABILITY_OUT_OF_STOCK>
     <AVAILABILITY_IN_STOCK>Skladem</AVAILABILITY_IN_STOCK>
-    <NEGATIVE_AMOUNT>1</NEGATIVE_AMOUNT>
+    <NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
     <CATEGORIES>
       <CATEGORY id="1692">neroztřízené</CATEGORY>
       <CATEGORY id="954">Kompletní nabídka her &gt; Hry podle vydavatele &gt; Tlama Games</CATEGORY>
